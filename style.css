@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+body{
+    background-image: url(https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-attachment: fixed;
+    background-position: center;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    background-size: cover;
+
+}
+
+   
+.form-box{
+    width: 79%;
+    height: auto;
+    position: relative;
+    margin: auto;
+    background: transparent;
+    margin: 6% auto;
+    background: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    overflow: hidden;
+    border-radius: 20px;
+    
+    
+}
+.heading{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+p{
+    padding-left: 20px;
+    padding-top: 30px;
+    color: darkgray;
+}
+
+.input{
+    width: 100%;padding: 50px;
+    margin: 100px;
+}
+.name{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.input-group{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#fname{
+    margin-left: 13px;
+}
+#lnamelabel{
+    margin-left: 5px;
+}
+#Education{
+    margin-left: 21px;
+}
+#exp{
+    margin-top: 20px;
+    margin-left: 13px;
+}
+#exp-img{
+    margin-top: 20px;
+    outline: none;
+    margin-left: 21px;
+}
+#project{
+    margin-top: 20px;
+    outline: none;
+    margin-left: 35px;
+    padding-bottom: 30px;
+}
+#skills{
+    margin-top: 20px;
+    outline: none;
+    margin-left: 58px;
+}
+#tagline{
+    margin-top: 20px;
+    outline: none;
+    margin-left: 37px;
+    padding-bottom: 30px;
+}
+#summary{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    outline: none;
+    margin-left: 25px;
+    padding-bottom: 60px;
+}
+#linkedin{
+    margin-top: 10px;
+    outline: none;
+    margin-left: 100px;
+}
+#github{
+    margin-top: 10px;
+    outline: none;
+    margin-left: 100px;
+}
+#twitter{
+    margin-top: 10px;
+    outline: none;
+    margin-left: 100px;
+}
+#profile-pic{
+    margin-top: 20px;
+    outline: none;
+    margin-left: 18px;
+}
+#multiskill{
+    padding-top: 20px;
+}
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 10px;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+    margin-top: 40px;
+    margin-left: 300px;
+    background-color: #011111;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+  #multiproject{
+      padding-top: 20px;
+  }
+  .add{
+      margin-left: 100px;
+  }
+  .add1{
+      margin-left: 100px;
+  }
+  #multiprojectdiv{
+      margin-left: 35px;
+      padding-bottom: 30px;
+  }
+  #multiskilldiv{
+    margin-left: 53px;
+}  
